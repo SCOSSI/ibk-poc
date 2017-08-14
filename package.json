@@ -1,0 +1,9 @@
+{
+  "name": "ibkweb",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1"
+  }
+}
